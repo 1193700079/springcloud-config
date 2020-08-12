@@ -1,1 +1,2 @@
-hello ! welcome ！  this is dev  version 
+config:
+  info: "this is dev"
